@@ -1,6 +1,6 @@
 {
   "name": "expo-user-preferences",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Typed expo module to set and get variable synchronously to UserDefaults for iOS, SharedPreferences for Android and localStorage for the web",
   "main": "build/index.js",
   "types": "build/index.d.ts",

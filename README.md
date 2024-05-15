@@ -8,7 +8,7 @@ If you have to save theme, locale, etc and get it synchronously to setup your ap
 ## Installation
 
 ````
-$ npm install expo-user-preferences
+$ npx expo install expo-user-preferences
 ````
 
 ## Setup
